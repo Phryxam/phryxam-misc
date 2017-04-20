@@ -55,7 +55,7 @@ Resulting P-value from Z-table: `.99985`
 Chance of getting this statistic (P-Value): `1-.99985=.00015`
 
 ### Drawing
-[Drawing](http://i.imgur.com/JbJF4be.png)
+[Normal Distribution Graph](http://i.imgur.com/JbJF4be.png)
 
 ### Conclusion
 With this small a P-value, `0.00015 < 0.05`, there is sufficient evidence to reject H<sub>0</sub>, that is, there is sufficient evidence that the true percantage of Otto's car repairs that ended up breaking down within 90 days is greater than 7%.
@@ -115,7 +115,7 @@ P-value from Z-table: `.98745` <br>
 Chance of getting this statistic (P-Value): `1-.98745=.01254`
 
 ## Drawing
-[Drawing2](http://i.imgur.com/MmsmUao.png)
+[North Distribution Graph](http://i.imgur.com/MmsmUao.png)
 
 ## Conclusion
 With this small a P-value, .01254< .05, there is sufficient evidence to reject H<sub>0</sub>, that is, there is sufficient evidence that the true percentage of raccoons carrying rabies attacking trash cans during the daylight hours has increased.
