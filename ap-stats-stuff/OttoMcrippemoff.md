@@ -61,8 +61,8 @@ Chance of getting this statistic (P-Value): `1-.99985=.00015`
 With this small a P-value, `0.00015 < 0.05`, there is sufficient evidence to reject H<sub>0</sub>, that is, there is sufficient evidence that the true percantage of Otto's car repairs that ended up breaking down within 90 days is greater than 7%.
 
 ## What does the p-value mean in the context of this evidence and case?
-In the context of this evidence and case, the P-value represents the probability of Otto's
-car repairs that ended up breaking down within 90 days is greater than 13.5%, assuming a true mean of 7%.
+In the context of this evidence and case, the P-value represents the probability of a sample of Otto's
+car repairs that ended up breaking down within 90 days being greater than 13.5%, assuming a true mean of 7%.
 
 ## You are the lawyer representing the people against Otto.  Use your evidence to dispute Otto’s arguments.
 
