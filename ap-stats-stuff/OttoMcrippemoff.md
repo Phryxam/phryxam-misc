@@ -119,4 +119,4 @@ Chance of getting this statistic (P-Value): `1-.98745=.01254`
 [North Distribution Graph](http://i.imgur.com/MmsmUao.png)
 
 ## Conclusion
-With this small a P-value, .01254< .05, there is sufficient evidence to reject H<sub>0</sub>, that is, there is sufficient evidence that the true percentage of raccoons carrying rabies attacking trash cans during the daylight hours has increased.
+With this small a P-value, `.01254< .05`, there is sufficient evidence to reject H<sub>0</sub>, that is, there is sufficient evidence that the true percentage of raccoons carrying rabies attacking trash cans during the daylight hours has increased.
