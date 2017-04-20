@@ -39,7 +39,7 @@ Testing for Randomness?: `Otto's cars that were tested were randomly selected.` 
 Less than 10% of the Population?: `It is assumed that over the course of Otto's career, he has worked on over 2,000 cars.`
 
 ### Hypotheses:
-
+We will be using a 1-proportion z-test: <br>
 H<sub>0</sub>: `P=0.7` <br>
 H<sub>a</sub>: `P>0.7`
 
@@ -100,6 +100,7 @@ Random?: Raccoons were captured randomly <br>
 Less Than 10% of the Population: I would certainly assume that there are more than 100 raccoons in the world
 
 ## Hypotheses
+We will be using a 1-proportion z-test <br>
 H<sub>0</sub>: `P=.15` <br>
 H<sub>a</sub>: `P>.15`
 
