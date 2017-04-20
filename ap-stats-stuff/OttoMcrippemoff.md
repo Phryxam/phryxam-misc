@@ -62,7 +62,7 @@ With this small a P-value, `0.00015 < 0.05`, there is sufficient evidence to rej
 
 ## What does the p-value mean in the context of this evidence and case?
 In the context of this evidence and case, the P-value represents the probability of Otto's
-car repairs that ended up breaking down within 90 days is greater than 13.5%.
+car repairs that ended up breaking down within 90 days is greater than 13.5%, assuming a true mean of 7%.
 
 ## You are the lawyer representing the people against Otto.  Use your evidence to dispute Otto’s arguments.
 
