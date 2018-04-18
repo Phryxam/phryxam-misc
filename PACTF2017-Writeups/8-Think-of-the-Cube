@@ -1,0 +1,16 @@
+# Problem 8
+## Think of the Cube (35 Points)
+
+```
+Get Cubed
+
+I found this floating around on a piece of paper while geocaching.
+What could “dqow_UrrEcxbaDdfgwwIhww” possibly mean?
+```
+
+Upon googling "Cube Cipher" as the problem has many mentions of cubes, and appears to be a crypto problem, we come across a
+cipher called a `Trifid Cipher`.
+
+We can use this website here to quickly and easily decipher the flag.
+
+Upon solving, we get the flag: `flag_WowWierdCipherHere`

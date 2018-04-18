@@ -1,0 +1,10 @@
+# Problem 10
+## Authorization of Time
+
+```
+qr.png. 1489798809000. Get me in.
+```
+
+For this problem, we are given a QR code. Upon scanning the QR code, we see the message: `otpauth://totp/PACTF%3AMiles?secret=ORUW2ZK7OBQXG43FONPWE5LUL5RXK2LMONPXG5DBPFPXI2DFL5ZWC3LF`
+
+Upon doing this, we 
